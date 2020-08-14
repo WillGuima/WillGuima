@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm William Guimarães
 Fullstack developer based in São Paulo, Brazil.\
 Currently creating some cool stuff on the education sector on [Sua Redação](https://www.suaredacao.com.br).\
-You can see more on my [Personal website](https://www.williamguimaraes.com).\
+You can see more on my [Personal website](https://www.williamguimaraes.com) or reach me out on [Linkedin](https://www.linkedin.com/in/william-guimaraes-58954630)\
 \
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="35" height="35" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="35" height="35" />
